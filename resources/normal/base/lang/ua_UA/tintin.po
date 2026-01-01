@@ -1,6 +1,6 @@
 # Ukrainian translation for Pebble Firmware
 # SPDX-FileCopyrightText: 2026 Oleh8978 mihajlovskyoleg@gmail.com
-# SPDX-FileCopyrightText: 2026 vdm1974 <vdm1974@e-mail.example>
+# SPDX-FileCopyrightText: 2026 vdm1974 vdm1974@gmail.com
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
 msgid ""
@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/pebble-dev/pebble-firmware/issues\n"
 "POT-Creation-Date: 2025-11-27 17:48+0000\n"
 "PO-Revision-Date: 2026-01-01 23:20+0000\n"
-"Last-Translator: vdm1974 <vdm1974@e-mail.example> Oleh8978 mihajlovskyoleg@gmail.com\n"
+"Last-Translator: vdm1974 vdm1974@gmail.com Oleh8978 mihajlovskyoleg@gmail.com\n"
 "Language-Team: Ukrainian \n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
