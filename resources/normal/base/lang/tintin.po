@@ -1,17 +1,41 @@
-# Ukrainian translation for Pebble Firmware
-# SPDX-FileCopyrightText: 2026 Oleh8978 mihajlovskyoleg@gmail.com
-# SPDX-FileCopyrightText: 2026 vdm1974 vdm1974@gmail.com
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Pebble Firmware\n"
-"Report-Msgid-Bugs-To: https://github.com/pebble-dev/pebble-firmware/issues\n"
+"#-#-#-#-#  fw.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-27 17:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  services.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-27 17:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  applib.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-27 17:48+0000\n"
-"PO-Revision-Date: 2026-01-01 23:20+0000\n"
-"Last-Translator: vdm1974 vdm1974@gmail.com Oleh8978 mihajlovskyoleg@gmail.com\n"
-"Language-Team: Ukrainian \n"
-"Language: uk\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,300 +43,290 @@ msgstr ""
 #: ../src/fw/process_management/app_manager.c:481
 #, c-format
 msgid "%.*s is not responding"
-msgstr "%.*s не відповідає"
+msgstr ""
 
 #: ../src/fw/process_management/process_manager.c:209
 msgid "This app requires a newer version of the Pebble firmware."
-msgstr "Цей застосунок вимагає оновення версії прошивки Pebble"
+msgstr ""
 
 #: ../src/fw/popups/alarm_popup.c:47
 #, c-format
 msgid "Snooze for %d minutes"
-msgstr "Відкласти на %d хвилин"
+msgstr ""
 
 #: ../src/fw/popups/alarm_popup.c:64
 msgid "Alarm dismissed"
-msgstr "Будильник зупинено"
+msgstr ""
 
 #: ../src/fw/popups/bluetooth_pairing_ui.c:231
 msgid "Pair?"
-msgstr "З'єднати?"
+msgstr ""
 
 #: ../src/fw/popups/crashed_ui.c:93
 #, c-format
 msgid ""
 "%s%.*s is not responding.\n"
-"%s%.*s не відповідає.\n"
+"\n"
 "Open app?"
-msgstr "Відкрити застосунок?"
+msgstr ""
 
 #: ../src/fw/popups/crashed_ui.c:155
 msgid ""
 "A bug report has been captured. Please finish uploading the bug report using "
 "the Pebble phone app."
 msgstr ""
-"Створено рапорт про знайдену помилку. Будь ласка завантажте його за допомогою "
-"застосунку Pebble Вашого телефону."
 
 #: ../src/fw/popups/health_tracking_ui.c:89
 msgid ""
 "This app requires Pebble Health to work. Enable Health in the Pebble mobile "
 "app to continue."
 msgstr ""
-"Цей застосунок потребує запуску Pebble Health. Запустіть Pebble Health "
-"у застосунку Pebble на Вашому телефоні для продовження"
 
 #: ../src/fw/popups/health_tracking_ui.c:99
 msgid ""
 "This feature requires Pebble Health to work. Enable Health in the Pebble "
 "mobile app to continue."
 msgstr ""
-"Цей функція потребує запуску Pebble Health. Запустіть Pebble Health "
-"у застосунку Pebble на Вашому телефоні для продовження"
 
 #: ../src/fw/popups/notifications/notification_window.c:685
 msgid "Snoozed"
-msgstr "Відкладено"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:719
 msgid "Muted"
-msgstr "Звук вимкнено"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:846
 msgid "Snooze"
-msgstr "Відкласти"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:865
 #, c-format
 msgid "Mute %s"
-msgstr "Вимкнути звук"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:888
 msgid "Mute Always"
-msgstr "Вимкнути звук назавжди"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:893
 msgid "Mute Weekends"
-msgstr "Вимкнути звук на тиждень"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:898
 msgid "Mute Weekdays"
-msgstr "Вимкнути звук на вихідні"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:908
 msgid "Dismiss All"
-msgstr "Скасувати ВСЕ"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:915
 msgid "End Quiet Time"
-msgstr "Кінець часу тиши"
+msgstr ""
 
 #: ../src/fw/popups/notifications/notification_window.c:916
 msgid "Start Quiet Time"
-msgstr "Початок часу тиши"
+msgstr ""
 
 #: ../src/fw/popups/phone_ui.c:586
 msgid "Call Accepted"
-msgstr "Виклик прийнято"
+msgstr ""
 
 #: ../src/fw/popups/phone_ui.c:589
 msgid "Disconnected"
-msgstr "Роз'єднано звязок"
+msgstr ""
 
 #: ../src/fw/popups/phone_ui.c:593
 msgid "Call Ended"
-msgstr "Кінець виклику"
+msgstr ""
 
 #: ../src/fw/popups/phone_ui.c:596
 msgid "Call Declined"
-msgstr "Виклик відхилено"
+msgstr ""
 
 #: ../src/fw/popups/switch_worker_ui.c:97
 #, c-format
 msgid "Run %s instead of %s as the background app?"
-msgstr "Запустит %s замість %s у фоновому режимі?"
+msgstr ""
 
 #: ../src/fw/popups/wakeup_ui.c:55
 msgid "While your Pebble was off wakeup events occurred for:\n"
-msgstr "Поки Ваш Pebble було вимкнено, наступні повідмлення пропущені для:\n"
+msgstr ""
 
 #: ../src/fw/shell/normal/battery_ui.c:51
 #: ../src/fw/shell/normal/shutdown_charging.c:89
 msgid "Fully Charged"
-msgstr "Повний заряд"
+msgstr ""
 
 #: ../src/fw/shell/normal/battery_ui.c:57
 #: ../src/fw/shell/normal/shutdown_charging.c:94
 msgid "Charging"
-msgstr "Заряджання"
+msgstr ""
 
 #: ../src/fw/shell/normal/battery_ui.c:72
 #, c-format
 msgid "Powered 'til %s"
-msgstr "Заряджено 'til %s"
+msgstr ""
 
 #: ../src/fw/shell/normal/display_calibration_prompt.c:48
 msgid "Your screen may need calibration. Calibrate it now?"
-msgstr "Можливо потрібно відкалібрувати екран. Відкалібрувати зараз?"
+msgstr ""
 
 #: ../src/fw/apps/core_apps/progress_ui_app.c:67
 msgid "Update Complete"
-msgstr "Оновлення закінчено"
+msgstr ""
 
 #: ../src/fw/apps/core_apps/progress_ui_app.c:67
 msgid "Update Failed"
-msgstr "Невдале оновлення"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:49
 #, c-format
 msgid "Snooze delay set to %d minutes"
-msgstr "Відкладено на %d хвилин"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:178
 msgid "Delete"
-msgstr "Видалити"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:183
 #: ../src/fw/apps/system_apps/settings/settings_quick_launch_app_menu.c:91
 #: ../src/fw/apps/system_apps/settings/settings_quiet_time.c:182
 msgid "Disable"
-msgstr "Ввімкнути"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:183
 #: ../src/fw/apps/system_apps/settings/settings_quiet_time.c:184
 msgid "Enable"
-msgstr "Вимкнути"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:188
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:452
 msgid "Change Time"
-msgstr "Змінити Час"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:193
 msgid "Change Days"
-msgstr "Змінити Дату"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:199
 msgid "Convert to Basic Alarm"
-msgstr "Створити як сигнал будильнику"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:200
 msgid "Convert to Smart Alarm"
-msgstr "Створити як сигнал смарт будильнику"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:206
 msgid "Snooze Delay"
-msgstr "Відкласти затримку"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:217
 msgid "5 minutes"
-msgstr "5 хвилин"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:218
 msgid "10 minutes"
-msgstr "10 хвилин"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:219
 msgid "15 minutes"
-msgstr "15 хвилин"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:220
 msgid "30 minutes"
-msgstr "30 хвилин"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_detail.c:221
 msgid "1 hour"
-msgstr "1 година"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:303
 msgid "Check something first."
-msgstr "Спочатку перевірити щось"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:453
 msgid "New Smart Alarm"
-msgstr "Новий Смарт Будильник"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:453
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:548
 msgid "New Alarm"
-msgstr "Новий будильник"
+msgstr ""
 
 #. / Displays as "Wake up between" then "8:00 AM - 8:30 AM" below on a separate line
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:455
 msgid "Wake up between"
-msgstr "Розбудити між"
+msgstr ""
 
 #. / Displays as "8:00 AM - 8:30 AM" then "Wake up interval" below on a separate line
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:457
 msgid "Wake up interval"
-msgstr "Інтервал пробудження"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:545
 msgid "Basic Alarm"
-msgstr "Основний сигнал будильнику"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarm_editor.c:546
 #: ../src/fw/apps/system_apps/alarms/alarms.c:357
 #: ../src/fw/services/normal/alarms/alarm.c:376
 #: ../src/fw/services/normal/alarms/alarm_pin.c:20
 msgid "Smart Alarm"
-msgstr "Смарт Будильник"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarms.c:125
 msgid "Alarm Deleted"
-msgstr "Будильник видалено"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarms.c:237
 msgid "Limit reached."
-msgstr "Досягнуто ліміту"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarms.c:281
 msgid "ON"
-msgstr "ВВІКН"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarms.c:281
 msgid "OFF"
-msgstr "ВИМКН"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/alarms/alarms.c:355
 msgid ""
 "Let us wake you in your lightest sleep so you're fully refreshed! Smart "
 "Alarm wakes you up to 30min before your alarm."
 msgstr ""
-"Дозвольте розбудити Вас під час легкої фази сну, аби Ви добре відпочили "
-"Смарт Будильник може розбудити Вас до 30 хвилин перед вставовленим часом."
 
 #: ../src/fw/apps/system_apps/alarms/alarms.c:480
 #: ../src/fw/apps/system_apps/settings/settings_vibe_patterns.c:71
 #: ../src/fw/services/normal/timeline/timeline.c:956
 msgid "Alarms"
-msgstr "Будильники"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/app_fetch_ui.c:125
 msgid "Not connected"
-msgstr "Не під'єднаний"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/app_fetch_ui.c:137
 msgid ""
 "No internet\n"
 "connection"
 msgstr ""
-"Немає інтернет\n"
-"з'єднання"
 
 #: ../src/fw/apps/system_apps/app_fetch_ui.c:139
 #: ../src/fw/applib/voice/voice_window.c:261
 msgid "No internet connection"
-msgstr "Немає інтернет під'єднання"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/app_fetch_ui.c:145
 msgid "Incompatible JS"
-msgstr "JS не підтримується"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/app_fetch_ui.c:154
 #: ../src/fw/services/normal/timeline/timeline_actions.c:267
 msgid "Failed"
-msgstr "Не вдало"
+msgstr ""
 
 #. / Insights onboarding message
 #: ../src/fw/apps/system_apps/health/health.c:81
@@ -320,25 +334,22 @@ msgid ""
 "Psst! Want smart tips about your activity and sleep? You can enable Insights "
 "in the mobile app."
 msgstr ""
-"Слухайте! Потрібні поради щодо активності та сну? Можна ввімкнути аналіз "
-"у мобільному застосунку."
 
 #. / Health disabled text
 #: ../src/fw/apps/system_apps/health/health.c:116
 msgid ""
 "Track your steps, sleep, and more! Enable Pebble Health in the mobile app."
 msgstr ""
-"Відслідковуйте кроки, сон тощо! Задійте Pebble Health в мобільному застосунку."
 
 #. / Health waiting for time sync
 #: ../src/fw/apps/system_apps/health/health.c:124
 msgid "Health requires the time to be synced. Please connect your phone."
-msgstr "Health вимагає сінхронізації часу. Будь ласка, підкючить телефон"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/health/health.c:190
 #: ../src/fw/services/normal/timeline/timeline.c:961
 msgid "Health"
-msgstr "Health"
+msgstr ""
 
 #: ../src/fw/apps/system_apps/health/health_activity_detail_card.c:43
 #: ../src/fw/apps/system_apps/workout/workout_active.c:268
