@@ -2246,7 +2246,7 @@ msgstr ""
 #: ../src/fw/services/normal/activity/activity_insights.c:1400
 #, c-format
 msgid "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
-msgstr "Feelin' good? You slept for %dH %dM. Nothing can stop you now 👊"
+msgstr "Відчуваєте себе добре? Ви поспали %dH %dM. Ніщо не зможе вас зупинити 👊"
 
 #. / Sleep notification on wake up, slept below their typical sleep duration
 #: ../src/fw/services/normal/activity/activity_insights.c:1407
