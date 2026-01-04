@@ -826,7 +826,7 @@ msgstr "Фільтр"
 #: ../src/fw/services/normal/vibes/vibes.def:4
 msgctxt "NotifVibe"
 msgid "Disabled"
-msgstr "Вимкнено""
+msgstr "Вимкнено"
 
 #: ../src/fw/apps/system_apps/settings/settings_notifications.c:113
 msgctxt "NotifVibe"
@@ -2232,6 +2232,7 @@ msgid ""
 "Good morning! You slept for %dH %dM. Consistency is key; keep doing what "
 "you're doing 😃."
 msgstr ""
+"Доброго ранку! Ви поспали %dH %dM. Послідовність — ключ; продовжуйте робити те, що ви робите ��."
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1398
 #, c-format
@@ -2239,6 +2240,8 @@ msgid ""
 "You're rockin' the shut eye! You slept for %dH %dM. Make it a nightly "
 "ritual. You deserve it."
 msgstr ""
+"Ви чудово спите! Ви поспали %dH %dM. Зробіть це нічною звичкою. "
+"Ви на це заслуговуєте."
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1400
 #, c-format
@@ -2252,6 +2255,8 @@ msgid ""
 "Hey sleepy head. You slept for %dH %dM which is %d%% below your typical. Try "
 "to get more tonight!"
 msgstr ""
+"Привіт, сонна голівко. Ви поспали %dH %dM, що на %d%% нижче за звичайний. Спробуйте "
+"поспати більше сьогодні ввечері!"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1409
 #, c-format
@@ -2259,6 +2264,8 @@ msgid ""
 "Groggy? You slept for %dH %dM which is %d%% below your typical. Sleep is "
 "important for everything you do-try getting more shut eye tonight!"
 msgstr ""
+"Приплюснута голова? Ви поспали %dH %dM, що на %d%% нижче за звичайний. Сон "
+"важливий для всього, що ви робите – спробуйте поспати більше сьогодні ввечері!"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1411
 #, c-format
@@ -2266,6 +2273,8 @@ msgid ""
 "It's a new day! You slept for %dH %dM which is %d%% below your typical. It's "
 "not your best, but there's always tonight."
 msgstr ""
+"Це новий день! Ви поспали %dH %dM, що на %d%% нижче за звичайний. Це "
+"не ваш найкращий результат, але сьогодні ввечері ще попереду."
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1413
 #, c-format
@@ -2273,6 +2282,8 @@ msgid ""
 "Goooood morning! You slept for %dH %dM which is %d%% below your typical. Go "
 "crush your day and then get back in bed 😉"
 msgstr ""
+"Доброго ранку! Ви поспали %dH %dM, що на %d%% нижче за звичайний. "
+"Розправтеся зі своїм днем і повертайтеся в ліжко 😉"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1420
 #, c-format
@@ -2280,6 +2291,8 @@ msgid ""
 "You slept for %dH %dM which is %d%% below your typical. Sleep is vital for "
 "all your great ideas–how 'bout getting more tonight?"
 msgstr ""
+"Ви поспали %dH %dM, що на %d%% нижче за звичайний. Сон важливий для "
+"всіх ваших чудових ідей – як щодо більш довгого сну сьогодні ввечері?"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1422
 #, c-format
@@ -2287,6 +2300,8 @@ msgid ""
 "You only slept for %dH %dM which is %d%% below your typical. We know you're "
 "busy, but try getting more tonight. We believe in you 😉"
 msgstr ""
+"Ви поспали лише %dH %dM, що на %d%% нижче за звичайний. Ми знаємо, ви "
+"зайняті, але спробуйте поспати більше сьогодні ввечері. Ми в вас вірим 😉"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1424
 #, c-format
@@ -2294,11 +2309,13 @@ msgid ""
 "You slept for %dH %dM which is %d%% below your typical. We know stuff "
 "happens; take another crack at it tonight."
 msgstr ""
+"Ви поспали %dH %dM, що на %d%% нижче за звичайний. Ми знаємо, що речі "
+"трапляються; спробуйте ще раз сьогодні ввечері."
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1477
 #, c-format
 msgid "%u Steps"
-msgstr "%u Steps"
+msgstr "%u кроків"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1558
 msgid "Didn’t that walk feel good?"
@@ -2306,55 +2323,55 @@ msgstr "Didn’t that walk feel good?"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1559
 msgid "Way to keep it active!"
-msgstr "Way to keep it active!"
+msgstr "Так тримати, будьте активними!"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1560
 msgid "You got the moves!"
-msgstr "You got the moves!"
+msgstr "Ви маєте рухи!"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1561
 msgid "Gettin' your step on?"
-msgstr "Gettin' your step on?"
+msgstr "Робите кроки?"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1571
 msgid "Feelin' hot? Cause you're on 🔥"
-msgstr "Feelin' hot? Cause you're on 🔥"
+msgstr "Гарячо? Бо ви в огні 🔥"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1572
 msgid "Hey lightning bolt, way to go!"
-msgstr "Hey lightning bolt, way to go!"
+msgstr "Привіт, блискавко, молодець!"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1573
 msgid "You're a machine!"
-msgstr "You're a machine!"
+msgstr "Ви машина!"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1574
 msgid "Hey speedster, we can barely keep up!"
-msgstr "Hey speedster, we can barely keep up!"
+msgstr "Привіт, швидкісник, ми навряд чи встигаємо!"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1575
 msgid "Way to show us what you're made of 👊"
-msgstr "Way to show us what you're made of 👊"
+msgstr "Покажи нам, з чого ти зроблений 👊"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1585
 msgid "Workin' up a sweat?"
-msgstr "Workin' up a sweat?"
+msgstr "Працюєш до поту?"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1586
 msgid "Well done 💪"
-msgstr "Well done 💪"
+msgstr "Чудово зроблено 💪"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1587
 msgid "Endorphin rush?"
-msgstr "Endorphin rush?"
+msgstr "Припив ендорфінів?"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1588
 msgid "Can't stop, won't stop 👊"
-msgstr "Can't stop, won't stop 👊"
+msgstr "Не можу зупинитися, не буду зупинятися 👊"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1589
 msgid "Keepin' that heart healthy! ❤"
-msgstr "Keepin' that heart healthy! ❤"
+msgstr "Зберігаємо серце здоровим! ❤"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1617
 #: ../src/fw/services/normal/activity/activity_insights.c:1709
@@ -2362,27 +2379,27 @@ msgstr "Keepin' that heart healthy! ❤"
 #: ../src/fw/services/normal/activity/activity_insights.c:1723
 #, c-format
 msgid "%d Min"
-msgstr "%d Min"
+msgstr "%d хв."
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1648
 msgid "Avg Pace"
-msgstr "Avg Pace"
+msgstr "Середня швидкість"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1664
 msgid "Distance"
-msgstr "Distance"
+msgstr "Дистанція"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1676
 msgid "Steps"
-msgstr "Steps"
+msgstr "Кроки"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1689
 msgid "Active Calories"
-msgstr "Active Calories"
+msgstr "Активні калорії"
 
 #: ../src/fw/services/normal/activity/activity_insights.c:1702
 msgid "Avg HR"
-msgstr "Avg HR"
+msgstr "Середній ЧСС"
 
 #: ../src/fw/services/normal/activity/health_util.c:32
 #, c-format
@@ -2419,55 +2436,55 @@ msgstr "%d.%d"
 #: ../src/fw/services/normal/alarms/alarm.c:376
 #: ../src/fw/services/normal/alarms/alarm_pin.c:20
 msgid "Alarm"
-msgstr "Alarm"
+msgstr "Будильник"
 
 #. / A frequency option for alarms, i.e. the alarm would go off every day. Respect
 #. / capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1125
 msgid "EVERY DAY"
-msgstr "EVERY DAY"
+msgstr "КОЖЕН ДЕНЬ"
 
 #. / A frequency option for alarms, i.e. the alarm would go off every day. Respect
 #. / capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1128
 msgid "Every Day"
-msgstr "Every Day"
+msgstr "Кожен день"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off every weekday. Respect
 #. / capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1134
 msgid "WEEKDAYS"
-msgstr "WEEKDAYS"
+msgstr "РОБОЧІ ДНІ"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off each day on the weekend.
 #. / Respect capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1143
 msgid "WEEKENDS"
-msgstr "WEEKENDS"
+msgstr "ВИХІДНІ"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off one time ever. Respect
 #. / capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1153
 msgid "ONCE"
-msgstr "ONCE"
+msgstr "ОДИН РАЗ"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off one time ever. Respect
 #. / capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1156
 msgid "Once"
-msgstr "Once"
+msgstr "Один раз"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off on a custom choice of
 #. / days. Respect capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1163
 msgid "CUSTOM"
-msgstr "CUSTOM"
+msgstr "ОСОБЛИВЕ"
 
 #. / A frequency option for alarms, i.e. the alarm would only go off on a custom choice of
 #. / days. Respect capitalization!
 #: ../src/fw/services/normal/alarms/alarm.c:1166
 msgid "Custom"
-msgstr "Custom"
+msgstr "Особливе"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1179
 #: ../src/fw/applib/pbl_std/timelocal.c:48
@@ -2506,47 +2523,47 @@ msgstr "Sat"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1188
 msgid "Sundays"
-msgstr "Sundays"
+msgstr "Неділі"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1189
 msgid "Mondays"
-msgstr "Mondays"
+msgstr "Понеділки"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1190
 msgid "Tuesdays"
-msgstr "Tuesdays"
+msgstr "Вівторки"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1191
 msgid "Wednesdays"
-msgstr "Wednesdays"
+msgstr "Середи"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1192
 msgid "Thursdays"
-msgstr "Thursdays"
+msgstr "Четверги"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1193
 msgid "Fridays"
-msgstr "Fridays"
+msgstr "П'ятниці"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1194
 msgid "Saturdays"
-msgstr "Saturdays"
+msgstr "Суботи"
 
 #: ../src/fw/services/normal/alarms/alarm_pin.c:33
 msgid "Edit"
-msgstr "Edit"
+msgstr "Редагувати"
 
 #: ../src/fw/services/normal/notifications/ancs/ancs_item.c:109
 msgid "sent an attachment"
-msgstr "sent an attachment"
+msgstr "відправив закладку"
 
 #: ../src/fw/services/normal/notifications/ancs/ancs_item.c:156
 msgid "Call Back"
-msgstr "Call Back"
+msgstr "Повернути дзвінок"
 
 #: ../src/fw/services/normal/notifications/do_not_disturb.c:115
 msgid "Calendar Aware enables Quiet Time automatically during calendar events."
-msgstr "Calendar Aware enables Quiet Time automatically during calendar events."
+msgstr "Calendar Aware автоматично вмикає режим тиші під час подій календаря."
 
 #: ../src/fw/services/normal/notifications/do_not_disturb.c:121
 msgid ""
@@ -2593,15 +2610,15 @@ msgstr "Повторюватися"
 
 #: ../src/fw/services/normal/timeline/sports_layout.c:50
 msgid "STARTS "
-msgstr "STARTS "
+msgstr "ПОЧИНАЄТЬСЯ "
 
 #: ../src/fw/services/normal/timeline/sports_layout.c:128
 msgid "Broadcaster"
-msgstr "Broadcaster"
+msgstr "Трансляція"
 
 #: ../src/fw/services/normal/timeline/timeline.c:697
 msgid "Can't connect. Relaunch Pebble Time app on phone."
-msgstr "Can't connect. Relaunch Pebble Time app on phone."
+msgstr "Не вдається підключитися. Перезапустіть додаток Pebble Time на телефоні."
 
 #: ../src/fw/services/normal/timeline/timeline.c:712
 msgid "Removed"
@@ -2637,7 +2654,8 @@ msgid ""
 "Quickly dismiss all notifications by holding the Select button for 2 seconds "
 "from any incoming notification."
 msgstr ""
-"Швидко закрийте все сповіщення, утримуючи кнопку "Вибір" протягом 2 секунд від будь-якого вхідного сповіщення."
+"Швидко закрийте все сповіщення, утримуючи кнопку "Вибір" протягом 2 секунд від "
+"будь-якого вхідного сповіщення."
 
 #: ../src/fw/services/normal/timeline/timeline_actions.c:817
 msgid "Ok"
@@ -2669,11 +2687,11 @@ msgstr "Голос"
 
 #: ../src/fw/services/normal/timeline/timeline_actions.c:960
 msgid "Canned messages"
-msgstr "Canned messages"
+msgstr "Готові повідомлення"
 
 #: ../src/fw/services/normal/timeline/timeline_actions.c:964
 msgid "Emoji"
-msgstr "Emoji"
+msgstr "Емодзі"
 
 #: ../src/fw/services/normal/timeline/timeline_actions.c:1073
 msgid "In 15 minutes"
@@ -2690,7 +2708,7 @@ msgstr "Останнє оновлення"
 #. / Standard vibration pattern option that has a medium intensity
 #: ../src/fw/services/normal/vibes/vibe_intensity.c:43
 msgid "Standard - Medium"
-msgstr "Standard - Medium"
+msgstr "Стандарт - середня"
 
 #: ../src/fw/applib/pbl_std/timelocal.c:38
 msgid "Jan"
@@ -3053,19 +3071,19 @@ msgstr " years"
 
 #: ../src/fw/applib/ui/dialogs/bt_conn_dialog.c:97
 msgid "Check bluetooth connection"
-msgstr "Check bluetooth connection"
+msgstr "Перевірте з'єднання Bluetooth"
 
 #: ../src/fw/applib/ui/time_range_selection_window.c:177
 msgid "Start"
-msgstr "Start"
+msgstr "Початок"
 
 #: ../src/fw/applib/ui/time_range_selection_window.c:181
 msgid "End"
-msgstr "End"
+msgstr "Кінець"
 
 #: ../src/fw/applib/voice/voice_window.c:234
 msgid "Dictation is not available."
-msgstr "Dictation is not available."
+msgstr "Диктування недоступне."
 
 #: ../src/fw/applib/voice/voice_window.c:254
 msgid "Error occurred. Try again."
@@ -3073,12 +3091,12 @@ msgstr "Помилка occurred. Try again."
 
 #: ../src/fw/applib/voice/voice_window.c:354
 msgid "Enable voice in the settings page of the Pebble app."
-msgstr "Enable voice in the settings page of the Pebble app."
+msgstr "Увімкніть голос на сторінці налаштувань програми Pebble."
 
 #: ../src/fw/applib/voice/voice_window.c:404
 msgid "Missed that. Try again."
-msgstr "Missed that. Try again."
+msgstr "Не почув. Спробуйте ще раз."
 
 #: ../src/fw/applib/voice/voice_window.c:1139
 msgid "Listening"
-msgstr "Listening"
+msgstr "Прослуховування"
