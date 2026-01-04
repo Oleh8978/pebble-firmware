@@ -2489,37 +2489,37 @@ msgstr "Особливе"
 #: ../src/fw/services/normal/alarms/alarm.c:1179
 #: ../src/fw/applib/pbl_std/timelocal.c:48
 msgid "Sun"
-msgstr "Sun"
+msgstr "Нед"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1180
 #: ../src/fw/applib/pbl_std/timelocal.c:48
 msgid "Mon"
-msgstr "Mon"
+msgstr "Пон"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1181
 #: ../src/fw/applib/pbl_std/timelocal.c:48
 msgid "Tue"
-msgstr "Tue"
+msgstr "Вів"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1182
 #: ../src/fw/applib/pbl_std/timelocal.c:48
 msgid "Wed"
-msgstr "Wed"
+msgstr "Сер"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1183
 #: ../src/fw/applib/pbl_std/timelocal.c:49
 msgid "Thu"
-msgstr "Thu"
+msgstr "Чет"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1184
 #: ../src/fw/applib/pbl_std/timelocal.c:49
 msgid "Fri"
-msgstr "Fri"
+msgstr "Пят"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1185
 #: ../src/fw/applib/pbl_std/timelocal.c:49
 msgid "Sat"
-msgstr "Sat"
+msgstr "Суб"
 
 #: ../src/fw/services/normal/alarms/alarm.c:1188
 msgid "Sundays"
@@ -2570,7 +2570,8 @@ msgid ""
 "Press and hold the Back button from a notification to turn Quiet Time on or "
 "off."
 msgstr ""
-"Натискайте і утримуйте кнопку "Назад" від сповіщення, щоб увімкнути або вимкнути режим тиші."
+"Натискайте і утримуйте кнопку Назад від сповіщення, щоб увімкнути або "
+"вимкнути режим тиші."
 
 #: ../src/fw/services/normal/notifications/do_not_disturb_toggle.c:28
 msgid "Start Quiet Time?"
@@ -2829,7 +2830,7 @@ msgstr "П'ятниця"
 
 #: ../src/fw/applib/pbl_std/timelocal.c:53
 msgid "Saturday"
-msgstr "Saturday"
+msgstr "Субота"
 
 #: ../src/fw/applib/pbl_std/timelocal.c:56
 msgid "%H:%M:%S"
@@ -2891,7 +2892,7 @@ msgstr ", "
 #: ../src/fw/applib/template_string.c:190
 msgctxt "TmplStringSep"
 msgid ", and "
-msgstr ", and "
+msgstr ", і "
 
 #. / Singular suffix for seconds with no units
 #. / Singular suffix for minutes with no units
@@ -2929,145 +2930,145 @@ msgstr ""
 #: ../src/fw/applib/template_string.c:263
 msgctxt "TmplStringSing"
 msgid " sec"
-msgstr " sec"
+msgstr " сек"
 
 #. / Plural suffix for seconds with abbreviated units
 #: ../src/fw/applib/template_string.c:265
 msgctxt "TmplStringPlur"
 msgid " sec"
-msgstr " sec"
+msgstr " сек"
 
 #. / Singular suffix for seconds with full units
 #: ../src/fw/applib/template_string.c:267
 msgctxt "TmplStringSing"
 msgid " second"
-msgstr " second"
+msgstr " секунда"
 
 #. / Plural suffix for seconds with full units
 #: ../src/fw/applib/template_string.c:269
 msgctxt "TmplStringPlur"
 msgid " seconds"
-msgstr " seconds"
+msgstr " секунд"
 
 #. / Singular suffix for minutes with abbreviated units
 #: ../src/fw/applib/template_string.c:278
 msgctxt "TmplStringSing"
 msgid " min"
-msgstr " min"
+msgstr " хв"
 
 #. / Plural suffix for minutes with abbreviated units
 #: ../src/fw/applib/template_string.c:280
 msgctxt "TmplStringPlur"
 msgid " min"
-msgstr " min"
+msgstr " хв"
 
 #. / Singular suffix for minutes with full units
 #: ../src/fw/applib/template_string.c:282
 msgctxt "TmplStringSing"
 msgid " minute"
-msgstr " minute"
+msgstr " хвилина"
 
 #. / Plural suffix for minutes with full units
 #: ../src/fw/applib/template_string.c:284
 msgctxt "TmplStringPlur"
 msgid " minutes"
-msgstr " minutes"
+msgstr " хвилин"
 
 #. / Singular suffix for hours with abbreviated units
 #: ../src/fw/applib/template_string.c:293
 msgctxt "TmplStringSing"
 msgid " hr"
-msgstr " hr"
+msgstr " год"
 
 #. / Plural suffix for hours with abbreviated units
 #: ../src/fw/applib/template_string.c:295
 msgctxt "TmplStringPlur"
 msgid " hr"
-msgstr " hr"
+msgstr " год"
 
 #. / Singular suffix for hours with full units
 #: ../src/fw/applib/template_string.c:297
 msgctxt "TmplStringSing"
 msgid " hour"
-msgstr " hour"
+msgstr " година"
 
 #. / Plural suffix for hours with full units
 #: ../src/fw/applib/template_string.c:299
 msgctxt "TmplStringPlur"
 msgid " hours"
-msgstr " hours"
+msgstr " годин"
 
 #. / Singular suffix for days with abbreviated units
 #: ../src/fw/applib/template_string.c:308
 msgctxt "TmplStringSing"
 msgid " d"
-msgstr " d"
+msgstr " д."
 
 #. / Plural suffix for days with abbreviated units
 #: ../src/fw/applib/template_string.c:310
 msgctxt "TmplStringPlur"
 msgid " d"
-msgstr " d"
+msgstr " д."
 
 #. / Singular suffix for days with full units
 #: ../src/fw/applib/template_string.c:312
 msgctxt "TmplStringSing"
 msgid " day"
-msgstr " day"
+msgstr " день"
 
 #. / Plural suffix for days with full units
 #: ../src/fw/applib/template_string.c:314
 msgctxt "TmplStringPlur"
 msgid " days"
-msgstr " days"
+msgstr " днів"
 
 #. / Singular suffix for months with abbreviated units
 #: ../src/fw/applib/template_string.c:324
 msgctxt "TmplStringSing"
 msgid " mo"
-msgstr " mo"
+msgstr " м."
 
 #. / Plural suffix for months with abbreviated units
 #: ../src/fw/applib/template_string.c:326
 msgctxt "TmplStringPlur"
 msgid " mo"
-msgstr " mo"
+msgstr " mм.o"
 
 #. / Singular suffix for months with full units
 #: ../src/fw/applib/template_string.c:328
 msgctxt "TmplStringSing"
 msgid " month"
-msgstr " month"
+msgstr " місяць"
 
 #. / Plural suffix for months with full units
 #: ../src/fw/applib/template_string.c:330
 msgctxt "TmplStringPlur"
 msgid " months"
-msgstr " months"
+msgstr " місяців"
 
 #. / Singular suffix for years with abbreviated units
 #: ../src/fw/applib/template_string.c:341
 msgctxt "TmplStringSing"
 msgid " yr"
-msgstr " yr"
+msgstr " р."
 
 #. / Plural suffix for years with abbreviated units
 #: ../src/fw/applib/template_string.c:343
 msgctxt "TmplStringPlur"
 msgid " yr"
-msgstr " yr"
+msgstr " р."
 
 #. / Singular suffix for years with full units
 #: ../src/fw/applib/template_string.c:345
 msgctxt "TmplStringSing"
 msgid " year"
-msgstr " year"
+msgstr " рік"
 
 #. / Plural suffix for years with full units
 #: ../src/fw/applib/template_string.c:347
 msgctxt "TmplStringPlur"
 msgid " years"
-msgstr " years"
+msgstr " роки"
 
 #: ../src/fw/applib/ui/dialogs/bt_conn_dialog.c:97
 msgid "Check bluetooth connection"
